@@ -1,6 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 ## Olá! Me chamo José Vítor
+
+“Não existe código perfeito, mas existe evolução constante.” 💭
+
  <div>
   <a href="https://github.com/juzeexs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juzeexs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
