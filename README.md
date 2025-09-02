@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header"/>
 
 ## Olá! Me chamo José Vítor
 
 “Não existe código perfeito, mas existe evolução constante.” 💭
 
- <div>
+<div>
   <a href="https://github.com/juzeexs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juzeexs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juzeexs&layout=compact&langs_count=16&theme=dracula"/>
@@ -16,7 +16,7 @@
   <img align="center" alt="Jose-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Jose-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 
-  ##
+##
 
 <div> 
   <a href="https://instagram.com/juzeexs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -25,4 +25,4 @@
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=footer"/>
