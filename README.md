@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AB0047&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=090979&height=120&section=header"/>
 
 ## Olá! Me chamo José Vítor
 
@@ -25,4 +25,4 @@
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AB0047&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=090979&height=120&section=footer"/>
