@@ -10,10 +10,10 @@
 
 Aqui estão algumas estatísticas dos meus projetos e contribuições:
 
-<div align="center">
+<div>
   <a href="https://github.com/juzeexs">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juzeexs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10"/> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juzeexs&layout=compact&langs_count=16&theme=dracula&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juzeexs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&"/> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juzeexs&layout=compact&langs_count=16&theme=dracula&"/>
   </a>
 </div>
 
@@ -23,7 +23,7 @@ Aqui estão algumas estatísticas dos meus projetos e contribuições:
 
 Minhas principais ferramentas e linguagens de trabalho (Front-End e Design Básico):
 
-<div align="center">
+<div>
   <img align="center" alt="Jose-HTML" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jose-CSS" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jose-Js" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -38,7 +38,7 @@ Minhas principais ferramentas e linguagens de trabalho (Front-End e Design Bási
 
 Entre em contato para falar sobre projetos, oportunidades ou tecnologia:
 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/josé-vítor-pinto-325131382" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
