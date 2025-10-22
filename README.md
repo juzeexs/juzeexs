@@ -12,7 +12,7 @@ Aqui estão algumas estatísticas dos meus projetos e contribuições:
 
 <div align="center">
   <img 
-    height="200em" 
+    height="250em" 
     width="49%"  src="https://github-readme-stats.vercel.app/api?username=juzeexs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10&hide_border=true" 
     alt="Estatísticas do GitHub de José Vítor"
   /> 
