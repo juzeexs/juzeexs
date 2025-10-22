@@ -1,4 +1,4 @@
-# </> Portfólio Pessoal - José Vítor Pinto
+# Portfólio Pessoal - José Vítor Pinto
 
 > Um portfólio moderno, responsivo e interativo focado em demonstrar habilidades sólidas em **Desenvolvimento Front-End** utilizando apenas **HTML, CSS e JavaScript**.
 
