@@ -1,84 +1,55 @@
-# Portfólio Pessoal - José Vítor Pinto
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=090979&height=120&section=header"/>
 
-> Um portfólio moderno, responsivo e interativo focado em demonstrar habilidades sólidas em **Desenvolvimento Front-End** utilizando apenas **HTML, CSS e JavaScript**.
+## 👋 Olá! Me chamo José Vítor
 
-## 🔗 Visite o Portfólio
-
-Confira a aplicação no ar para ver todas as funcionalidades e o design em ação:
-
-[**Acesse o Portfólio Aqui!**](https://meuportifoliojuzeexs.netlify.app/)
+> **"Não existe código perfeito, mas existe evolução constante.”** 💭
 
 ---
 
-## ✨ Funcionalidades de Destaque
+### 🚀 Status no GitHub
 
-Este projeto foi construído com foco na experiência do usuário e na demonstração de habilidades puras de Front-End:
+Aqui estão algumas estatísticas dos meus projetos e contribuições:
 
-* **Modo Claro/Escuro:** Alternância de tema com persistência de escolha via `localStorage` (Implementado em JavaScript).
-* **Temas de Cores:** Possibilidade de mudar a cor de destaque (Mint, Azul, Rosa) com persistência de escolha (Implementado com Variáveis CSS e JavaScript).
-* **Animações:** Utilização de animações CSS nativas e efeitos de transição para maior fluidez.
-* **Efeito de Digitação:** Animação dinâmica no cabeçalho (hero) para o título principal, simulando digitação (Implementado em JavaScript).
-* **Responsividade:** Layout adaptável a diferentes tamanhos de tela, garantido pelo **Bootstrap** (abordagem *mobile-first*).
-
----
-
-## 💡 Visão Geral e Estrutura
-
-O portfólio é construído com ênfase na separação de responsabilidades (Marcação, Estilo e Lógica) em três arquivos principais:
-
-| Arquivo | Função Principal | Destaques de Implementação |
-| :---: | :--- | :--- |
-| **`index.html`** | Estrutura Semântica (Marcação) | Navbar Fixa, Utilização de classes do **Bootstrap**, Estrutura de Cards. |
-| **`style.css`** | Estilização e Temas (Visual) | Variáveis CSS (`:root`) para **Modo Escuro** e **Temas de Cores** dinâmicos, Animações `@keyframes` personalizadas (como o cursor piscante). |
-| **`script.js`** | Interações Dinâmicas (Lógica) | Lógica de Alternância de **Tema** e **Cores** (com `localStorage`), Implementação do **Efeito de Digitação** para o cabeçalho. |
+<div align="center">
+  <a href="https://github.com/juzeexs">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juzeexs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10"/> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juzeexs&layout=compact&langs_count=16&theme=dracula&border_radius=10"/>
+  </a>
+</div>
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+### 💻 Habilidades Técnicas
 
-Aqui estão as ferramentas utilizadas, demonstrando o domínio em tecnologias fundamentais de Front-End:
+Minhas principais ferramentas e linguagens de trabalho (Front-End e Design Básico):
 
-| Categoria | Tecnologia | Badge |
-| :---: | :---: | :--- |
-| **Marcação** | HTML5 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
-| **Estilização** | CSS3 (Variáveis CSS) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Framework CSS** | Bootstrap 5.3 | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |
-| **Lógica** | JavaScript (ES6+) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-
----
-
-## 🚀 Como Executar Localmente
-
-Siga os passos abaixo para testar o código em sua própria máquina.
-
-### Pré-requisitos
-* Um navegador moderno (Chrome, Firefox, Edge, etc.).
-* Um editor de código (como VS Code) com a extensão *Live Server* é recomendado.
-
-### Passo a Passo
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone [LINK_DESTE_REPOSITÓRIO]
-    ```
-
-2.  **Acesse a pasta do projeto:**
-    ```bash
-    cd [NOME_DO_REPOSITORIO]
-    ```
-
-3.  **Abra o arquivo:**
-    Abra o arquivo `index.html` diretamente no seu navegador ou use a opção "Open with Live Server" (se estiver usando VS Code).
+<div align="center">
+  <img align="center" alt="Jose-HTML" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jose-CSS" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jose-Js" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jose-Bootstrap" title="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="Jose-PHP" title="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Jose-Figma" title="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+</div>
 
 ---
 
-## 👨‍💻 Autor
+### 📧 Conecte-se Comigo!
 
-| | Detalhes |
-| :---: | :--- |
-| **Nome** | José Vítor Pinto |
-| **Foco** | Desenvolvedor Front-End |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([LINK_DO_SEU_LINKEDIN]) |
-| **GitHub** | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([LINK_DO_SEU_GITHUB_PROFILE]) |
+Entre em contato para falar sobre projetos, oportunidades ou tecnologia:
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/josé-vítor-pinto-325131382" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&to=Jose.v.pinto8@aluno.senai.br" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/juzeexs" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</div>
+
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=090979&height=120&section=footer"/>
