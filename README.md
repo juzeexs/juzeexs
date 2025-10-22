@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=090979&height=120&section=header"/>
 
-## 👋 Olá! Me chamo José Vítor
+## Olá! Me chamo José Vítor
 
 > **"Não existe código perfeito, mas existe evolução constante.”** 💭
 
@@ -13,7 +13,7 @@ Aqui estão algumas estatísticas dos meus projetos e contribuições:
 <div align="center">
   <a href="https://github.com/juzeexs">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juzeexs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10"/> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juzeexs&layout=compact&langs_count=16&theme=dracula&border_radius=10"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juzeexs&layout=compact&langs_count=16&theme=dracula&border_radius=10"/>
   </a>
 </div>
 
