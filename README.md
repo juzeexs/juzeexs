@@ -3,21 +3,15 @@
 ## 👋 Olá! Me chamo José Vítor
 
 > **"Não existe código perfeito, mas existe evolução constante.”** 💭
+> Sou Desenvolvedor Front-End focado em criar interfaces modernas e responsivas.
 
 ---
 
-### 🚀 Status no GitHub
+### 🚀 Status e Performance no GitHub
 
-Aqui estão algumas estatísticas consolidadas dos meus projetos e contribuições:
+Aqui estão as estatísticas consolidadas dos meus projetos e minha frequência de contribuição:
 
 <div align="center">
-  <img 
-    height="200em" 
-    width="80%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=juzeexs&show_icons=true&theme=dracula&count_private=true&layout=compact&langs_count=16&card_width=500" 
-    alt="Estatísticas e Linguagens mais usadas por José Vítor"
-  /> 
-
   <img 
     height="200em" 
     width="80%" 
@@ -29,6 +23,13 @@ Aqui estão algumas estatísticas consolidadas dos meus projetos e contribuiçõ
 
   <img 
     height="160em" 
+    width="49%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=juzeexs&layout=compact&langs_count=6&theme=dracula&border_radius=10&hide_border=true" 
+    alt="Linguagens mais usadas por José Vítor"
+  />
+  <img 
+    height="160em" 
+    width="49%" 
     src="https://github-readme-streak-stats.herokuapp.com/?user=juzeexs&theme=dracula&hide_border=true" 
     alt="GitHub Streak de José Vítor"
   />
@@ -38,15 +39,15 @@ Aqui estão algumas estatísticas consolidadas dos meus projetos e contribuiçõ
 
 ### 💻 Habilidades Técnicas
 
-Minhas principais ferramentas e linguagens de trabalho (Front-End e Design Básico):
+Minhas principais ferramentas e linguagens de trabalho, focadas em desenvolvimento Front-End e Design Básico:
 
 <div align="center">
   <img align="center" alt="Jose-HTML" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jose-CSS" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jose-Js" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jose-Bootstrap" title="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="Jose-PHP" title="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Jose-Figma" title="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Jose-PHP" title="PHP (Básico)" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Jose-Figma" title="Figma (Design/Wireframe)" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
 
 ---
