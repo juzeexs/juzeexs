@@ -2,7 +2,7 @@
 
 ##  Olá! Seja Bem Vindo(a)!
 
-> **"Não existe código perfeito, mas existe evolução constante.”** 💭
+ **"Não existe código perfeito, mas existe evolução constante.”** 💭
 
 ---
 
