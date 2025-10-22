@@ -8,20 +8,29 @@
 
 ### 🚀 Status no GitHub
 
-Aqui estão algumas estatísticas dos meus projetos e contribuições:
+Aqui estão algumas estatísticas consolidadas dos meus projetos e contribuições:
 
 <div align="center">
   <img 
-    height="180em" 
-    width="49%" 
-    src="https://github-readme-stats.vercel.app/api?username=juzeexs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10&hide_border=true" 
-    alt="Estatísticas do GitHub de José Vítor"
+    height="200em" 
+    width="80%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=juzeexs&show_icons=true&theme=dracula&count_private=true&layout=compact&langs_count=16&card_width=500" 
+    alt="Estatísticas e Linguagens mais usadas por José Vítor"
   /> 
+
   <img 
-    height="180em" 
-    width="49%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=juzeexs&layout=compact&langs_count=16&theme=dracula&border_radius=10&hide_border=true" 
-    alt="Linguagens mais usadas por José Vítor"
+    height="200em" 
+    width="80%" 
+    src="https://github-readme-stats.vercel.app/api?username=juzeexs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&card_width=500" 
+    alt="Estatísticas do GitHub de José Vítor"
+  />
+
+  <br>
+
+  <img 
+    height="160em" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=juzeexs&theme=dracula&hide_border=true" 
+    alt="GitHub Streak de José Vítor"
   />
 </div>
 
