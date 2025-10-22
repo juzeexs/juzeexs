@@ -11,10 +11,18 @@
 Aqui estão algumas estatísticas dos meus projetos e contribuições:
 
 <div align="center">
-  <a href="https://github.com/juzeexs">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juzeexs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10"/> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juzeexs&layout=compact&langs_count=16&theme=dracula&border_radius=10"/>
-  </a>
+  <img 
+    height="180em" 
+    width="49%" 
+    src="https://github-readme-stats.vercel.app/api?username=juzeexs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10&hide_border=true" 
+    alt="Estatísticas do GitHub de José Vítor"
+  /> 
+  <img 
+    height="180em" 
+    width="49%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=juzeexs&layout=compact&langs_count=16&theme=dracula&border_radius=10&hide_border=true" 
+    alt="Linguagens mais usadas por José Vítor"
+  />
 </div>
 
 ---
