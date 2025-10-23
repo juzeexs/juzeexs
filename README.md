@@ -27,9 +27,9 @@ Minhas principais ferramentas e linguagens de trabalho (Front-End e Design Bási
   <img align="center" alt="Jose-HTML" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jose-CSS" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jose-Js" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jose-Bootstrap" title="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="Jose-PHP" title="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Jose-Figma" title="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Jose-Bootstrap" title="Bootstrap" height="30" width="40" src="https://camo.githubusercontent.com/644149ef547263d8b313f670e75913f5a37ad3ec541ade6b25e556877d962944/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f622f62322f426f6f7473747261705f6c6f676f2e7376672f35313270782d426f6f7473747261705f6c6f676f2e7376672e706e67">
+  <img align="center" alt="Jose-PHP" title="PHP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Webysther_20160423_-_Elephpant.svg">
+  <img align="center" alt="Jose-Figma" title="Figma" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png">
 </div>
 
 ---
