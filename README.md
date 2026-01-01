@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=090979&height=120&section=header"/>
 
-##  Olá! Seja Bem Vindo(a)!
+## Olá! Seja Bem Vindo(a)!
 
 **"Não existe código perfeito, mas existe evolução constante.”** 💭
 
@@ -11,19 +11,15 @@
 #### 📊 Estatísticas e Métricas
 
 <div>
-  <!-- Visão detalhada do perfil: commits, PRs, issues e contribuições -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juzeexs&theme=dracula"/>
 </div>
 <div>
-  <!-- Streak: dias consecutivos de contribuições -->
   <img src="https://streak-stats.demolab.com?user=juzeexs&theme=dracula&date_format=j%20M%5B%20Y%5D"/>
 </div>
 <div>
-  <!-- Línguas mais usadas (compacto) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juzeexs&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 <div>
-  <!-- Badges dinâmicas de seguidores, stars, visitas -->
   <img src="https://img.shields.io/github/followers/juzeexs?style=for-the-badge"/>
   <img src="https://img.shields.io/github/stars/juzeexs?style=for-the-badge"/>
   <img src="https://komarev.com/ghpvc/?username=juzeexs&style=for-the-badge"/>
@@ -36,12 +32,18 @@
 Minhas principais ferramentas e linguagens de trabalho (Front-End e Design Básico):
 
 <div>
-  <img align="center" alt="Jose-HTML" title="HTML5" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg">
-  <img align="center" alt="Jose-CSS" title="CSS3" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">
-  <img align="center" alt="Jose-Js" title="JavaScript" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
-  <img align="center" alt="Jose-Bootstrap" title="Bootstrap" height="30" width="40" src="https://camo.githubusercontent.com/644149ef547263d8b313f670e75913f5a37ad3ec541ade6b25e556877d962944/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f622f62322f426f6f7473747261705f6c6f676f2e7376672f35313270782d426f6f7473747261705f6c6f676f2e7376672e706e67">
-  <img align="center" alt="Jose-PHP" title="PHP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Webysther_20160423_-_Elephpant.svg">
-  <img align="center" alt="Jose-Figma" title="Figma" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png">
+  <!-- HTML5 -->
+  <img align="center" alt="Jose-HTML" title="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <!-- CSS3 -->
+  <img align="center" alt="Jose-CSS" title="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <!-- JavaScript -->
+  <img align="center" alt="Jose-Js" title="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <!-- Bootstrap -->
+  <img align="center" alt="Jose-Bootstrap" title="Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <!-- PHP -->
+  <img align="center" alt="Jose-PHP" title="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <!-- Figma -->
+  <img align="center" alt="Jose-Figma" title="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
 
 ---
