@@ -1,6 +1,6 @@
 <!-- Banner moderno Roxo -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=800080,9932CC,9400D3,8A2BE2,BA55D3&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000,9932CC,9400D3,8A2BE2,BA55D3&height=120&section=header"/>
 </p>
 
 <h1 align="center">José Vítor</h1>
