@@ -2,26 +2,32 @@
 
 ##  Olá! Seja Bem Vindo(a)!
 
- **"Não existe código perfeito, mas existe evolução constante.”** 💭
+**"Não existe código perfeito, mas existe evolução constante.”** 💭
 
 ---
 
 ### 🚀 Status no GitHub
 
-Aqui estão algumas estatísticas dos meus projetos e contribuições:
+#### 📊 Estatísticas e Métricas
 
-<!-- Adicionando porcentagem de linguagens via shields.io ou outros serviços -->
-## 🗂️ Linguagens Mais Usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juzeexs&layout=compact&langs_count=10&theme=dracula)
-
-<!-- Exemplificando porcentagem manualmente -->
-**Minhas principais linguagens (aproximadamente):**
-- ![HTML5](https://img.shields.io/badge/HTML5-35%25-orange?style=flat&) 
-- ![CSS3](https://img.shields.io/badge/CSS3-25%25-blue?style=flat&)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-20%25-yellow?style=flat&)
-- ![PHP](https://img.shields.io/badge/PHP-15%25-purple?style=flat&)
-- ![Outros](https://img.shields.io/badge/Outros-5%25-lightgrey?style=flat&)
+<div>
+  <!-- Visão detalhada do perfil: commits, PRs, issues e contribuições -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juzeexs&theme=dracula"/>
+</div>
+<div>
+  <!-- Streak: dias consecutivos de contribuições -->
+  <img src="https://streak-stats.demolab.com?user=juzeexs&theme=dracula&date_format=j%20M%5B%20Y%5D"/>
+</div>
+<div>
+  <!-- Línguas mais usadas (compacto) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juzeexs&layout=compact&langs_count=10&theme=dracula"/>
+</div>
+<div>
+  <!-- Badges dinâmicas de seguidores, stars, visitas -->
+  <img src="https://img.shields.io/github/followers/juzeexs?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/juzeexs?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=juzeexs&style=for-the-badge"/>
+</div>
 
 ---
 
