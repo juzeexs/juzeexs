@@ -1,9 +1,9 @@
-<!-- Banner moderno -->
+<!-- Banner moderno Roxo -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=800080,1cd6ce&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=800080,9932CC,9400D3,8A2BE2,BA55D3&height=120&section=header"/>
 </p>
 
-<h1 align= "center">José Vítor</h1>
+<h1 align="center">Olá 👋, eu sou José Vítor</h1>
 <p align="center"><b>"Não existe código perfeito, mas existe evolução constante."</b> 💭</p>
 <p align="center">
   <a href="https://github.com/juzeexs"><img src="https://img.shields.io/github/followers/juzeexs?style=social" /></a>
@@ -23,7 +23,7 @@ Desenvolvedor Front-End apaixonado por criar experiências digitais funcionais e
 
 ---
 
-## Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -39,13 +39,16 @@ Desenvolvedor Front-End apaixonado por criar experiências digitais funcionais e
 ## 📊 Estatísticas & Métricas
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juzeexs&theme=vue" alt="Resumo do GitHub" height="180em"/>
+  <!-- Summary cards em tema roxo/amethyst -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juzeexs&theme=dracula"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juzeexs&layout=compact&langs_count=8&theme=vue" height="180em"/>
+  <!-- Top Langs em tema purple -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juzeexs&layout=compact&langs_count=8&theme=radical"/>
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=juzeexs&theme=vue&date_format=j%20M%5B%20Y%5D" height="180em"/>
+  <!-- Streak em tema roxo -->
+  <img src="https://streak-stats.demolab.com?user=juzeexs&theme=purple&date_format=j%20M%5B%20Y%5D"/>
 </div>
 
 ---
@@ -67,5 +70,5 @@ Orçamento e colaboração são sempre bem-vindos!
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2176ae,800080,1cd6ce&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=800080,9932CC,9400D3,8A2BE2,BA55D3&height=120&section=footer"/>
 </p>
