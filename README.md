@@ -1,6 +1,6 @@
 <!-- Banner moderno -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2176ae,091979,1cd6ce&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=800080,1cd6ce&height=120&section=header"/>
 </p>
 
 <h1 align= "center">José Vítor</h1>
