@@ -10,13 +10,7 @@
 
 #### 📊 Estatísticas e Métricas
 
-<div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juzeexs&theme=dracula"/>
-</div>
-<div>
-  <img src="https://streak-stats.demolab.com?user=juzeexs&theme=dracula&date_format=j%20M%5B%20Y%5D"/>
-</div>
-<div>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juzeexs&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 <div>
