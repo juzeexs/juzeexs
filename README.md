@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2176ae,091979,1cd6ce&height=120&section=header"/>
 </p>
 
-<h1 align="center">Olá 👋, eu sou José Vítor</h1>
+<h1José Vítor</h1>
 <p align="center"><b>"Não existe código perfeito, mas existe evolução constante."</b> 💭</p>
 <p align="center">
   <a href="https://github.com/juzeexs"><img src="https://img.shields.io/github/followers/juzeexs?style=social" /></a>
