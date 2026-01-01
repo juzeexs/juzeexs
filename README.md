@@ -11,9 +11,6 @@
 #### 📊 Estatísticas e Métricas
 
 <div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juzeexs&theme=dracula"/>
-</div>
-<div>
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juzeexs&layout=compact&langs_count=10&theme=dracula"/>
 </div>
