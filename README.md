@@ -11,6 +11,10 @@
 #### 📊 Estatísticas e Métricas
 
 <div>
+</div>
+<div>
+
+</div>
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juzeexs&layout=compact&langs_count=10&theme=dracula"/>
 </div>
