@@ -10,11 +10,18 @@
 
 Aqui estão algumas estatísticas dos meus projetos e contribuições:
 
-<div>
-  <a href="https://github.com/juzeexs">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juzeexs&layout=compact&langs_count=16&theme=dracula&"/>
-  </a>
-</div>
+<!-- Adicionando porcentagem de linguagens via shields.io ou outros serviços -->
+## 🗂️ Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juzeexs&layout=compact&langs_count=10&theme=dracula)
+
+<!-- Exemplificando porcentagem manualmente -->
+**Minhas principais linguagens (aproximadamente):**
+- ![HTML5](https://img.shields.io/badge/HTML5-35%25-orange?style=flat&) 
+- ![CSS3](https://img.shields.io/badge/CSS3-25%25-blue?style=flat&)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-20%25-yellow?style=flat&)
+- ![PHP](https://img.shields.io/badge/PHP-15%25-purple?style=flat&)
+- ![Outros](https://img.shields.io/badge/Outros-5%25-lightgrey?style=flat&)
 
 ---
 
