@@ -18,7 +18,7 @@ Desenvolvedor Front-End apaixonado por criar experiências digitais funcionais e
 
 - 🎓 **Formação:** Senai - Técnico em Informática para Web
 - 🖌️ **Foco:** Front End, UI/UX & Design responsivo
-- ☕ **Atualmente aprendendo:** JavaScript Avançado & Node.js
+- ☕ **Atualmente aprendendo:** Back-End & PHP e MySql
 - 📈 **Buscando sempre:** Evoluir, inovar e compartilhar conhecimento
 
 ---
@@ -45,9 +45,6 @@ Desenvolvedor Front-End apaixonado por criar experiências digitais funcionais e
   <!-- Top Langs em tema purple -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juzeexs&layout=compact&langs_count=8&theme=radical"/>
 </div>
-<div align="center">
-  <!-- Streak em tema roxo -->
-  <img src="https://streak-stats.demolab.com?user=juzeexs&theme=purple&date_format=j%20M%5B%20Y%5D"/>
 </div>
 
 ---
