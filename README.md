@@ -62,5 +62,5 @@ Orçamento e colaboração são sempre bem-vindos!
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=800080,9932CC,9400D3,8A2BE2,BA55D3&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4169e1&height=120&section=footer"/>
 </p>
