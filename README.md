@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=90ee90&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4169e1&height=120&section=header"/>
 </p>
 
 <h1 align="center">José Vítor</h1>
