@@ -53,12 +53,13 @@ Orçamento e colaboração são sempre bem-vindos!
   <a href="mailto:Jose.v.pinto8@aluno.senai.br">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
+</p>
+<p align="left">
   <a href="https://www.linkedin.com/in/josé-vítor-pinto-325131382">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=800080,9932CC,9400D3,8A2BE2,BA55D3&height=120&section=footer"/>
