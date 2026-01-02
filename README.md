@@ -11,11 +11,11 @@
 
 ---
 
-## 🚀 Sobre Mim
+## 🙋🏻‍♂️ Sobre Mim
 
 Desenvolvedor Front-End apaixonado por criar experiências digitais funcionais e elegantes. Sou movido pelo desafio de aprender, evoluir e colaborar!
 
-- 🎓 **Formação:** Senai - Técnico em Informática para Web
+- 👨🏻‍🎓 **Formação:** Senai - Técnico em Informática para Web
 - 🖌️ **Foco:** Front End, UI/UX & Design responsivo
 - 💻 **Atualmente aprendendo:** Back-End & PHP e MySql
 - 📈 **Buscando sempre:** Evoluir, inovar e compartilhar conhecimento
