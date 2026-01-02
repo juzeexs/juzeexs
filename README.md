@@ -1,4 +1,3 @@
-<!-- Banner moderno Roxo -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000,&height=120&section=header"/>
 </p>
