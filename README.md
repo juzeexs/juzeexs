@@ -16,14 +16,14 @@
 
 Desenvolvedor Front-End apaixonado por criar experiências digitais funcionais e elegantes. Sou movido pelo desafio de aprender, evoluir e colaborar!
 
-- 🎓 **Formação:** Senai - Desenvolvimento de Sistemas
+- 🎓 **Formação:** Senai - Técnico em Informática para Web
 - 🖌️ **Foco:** Front End, UI/UX & Design responsivo
 - ☕ **Atualmente aprendendo:** JavaScript Avançado & Node.js
 - 📈 **Buscando sempre:** Evoluir, inovar e compartilhar conhecimento
 
 ---
 
-## Tecnologias
+## Minhas Tecnologias 
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
