@@ -41,10 +41,6 @@ Desenvolvedor Front-End apaixonado por criar experiências digitais funcionais e
   <!-- Summary cards em tema roxo/amethyst -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juzeexs&theme=dracula"/>
 </div>
-<div align="center">
-  <!-- Top Langs em tema purple -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juzeexs&layout=compact&langs_count=8&theme=radical"/>
-</div>
 </div>
 
 ---
