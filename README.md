@@ -28,7 +28,7 @@ Desenvolvedor Front-End apaixonado por criar experiências digitais funcionais e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" style="vertical-align: middle; margin: 0 5px;" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" style="vertical-align: middle; margin: 0 5px;" alt="CSS3" />
   <img src="https://static.vecteezy.com/system/resources/thumbnails/027/127/560/small_2x/javascript-logo-javascript-icon-transparent-free-png.png" height="55" style="vertical-align: middle; margin: 0 5px;" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" style="vertical-align: middle; margin: 0 5px;" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" style="vertical-align: middle; margin: 0 58px;" alt="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" style="vertical-align: middle; margin: 0 5px;" alt="PHP"/>
 </div>
 
