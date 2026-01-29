@@ -24,7 +24,7 @@ Desenvolvedor Front-End apaixonado por criar experiências digitais funcionais e
 
 ## 🛠️ Ferramentas de Trabalho 
 
-<div>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" style="vertical-align: middle; margin: 0 5px;" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" style="vertical-align: middle; margin: 0 5px;" alt="CSS3" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="45" style="vertical-align: middle; margin: 0 5px;" alt="JavaScript"/>
