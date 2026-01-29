@@ -4,10 +4,6 @@
 
 <h1 align="center">José Vítor</h1>
 <p align="center"><b>"Não existe código perfeito, mas existe evolução constante."</b> 💭</p>
-<p align="center">
-  <a href="https://github.com/juzeexs"><img src="https://img.shields.io/github/followers/juzeexs?style=social" /></a>
-  <a href="https://www.linkedin.com/in/josé-vítor-pinto-325131382"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
-</p>
 
 ---
 
