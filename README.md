@@ -46,7 +46,7 @@ Vamos conversar sobre projetos, oportunidades ou tecnologia?
 Orçamento e colaboração são sempre bem-vindos!
 
 <p align="left">
-  <a href="mailto:Jose.v.pinto8@aluno.senai.br">
+  <a href="jose.v.pinto8@aluno.senai.br">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
