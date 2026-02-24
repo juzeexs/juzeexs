@@ -27,15 +27,9 @@ Desenvolvedor Front-End apaixonado por criar experiências digitais funcionais e
 
 ## 🛠️ Ferramentas de Trabalho 
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35" style="max-width:100%;" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35" style="max-width:100%;" />&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="35" height="35" style="max-width:100%;" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35" height="35" style="max-width:100%;" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35" height="35" style="max-width:100%;" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" height="35" style="max-width:100%;" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,vscode,git&theme=dark" />
 </p>
-
 ---
 
 ## 📊 Estatísticas & Métricas
@@ -45,8 +39,6 @@ Desenvolvedor Front-End apaixonado por criar experiências digitais funcionais e
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juzeexs&theme=dracula"/>
 </div>
 </div>
-
----
 
 ## 📫 Fale comigo
 
