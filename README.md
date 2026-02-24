@@ -1,9 +1,16 @@
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=8A2BE2&height=140&section=header&text=Jos%C3%A9%20V%C3%ADtor&fontColor=ffffff&fontSize=36&animation=fadeIn" />
+</h1>
+
+<h3 align="center">Desenvolvedor Front-End • UI/UX Mindset • PHP & MySQL Explorer</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4169e1&height=120&section=header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Focado+em+experi%C3%AAncias+elegantes;De+olho+no+Back-End+(PHP+%2B+MySQL);Evolu%C3%A7%C3%A3o+constante+sempre!%F0%9F%9A%80" />
 </p>
 
-<h1 align="center">José Vítor</h1>
-<p align="center"><b>"Não existe código perfeito, mas existe evolução constante."</b> 💭</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=juzeexs&label=Visitantes&color=8A2BE2&style=flat-square" alt="contador de visitantes" />
+</p>
 
 ---
 
