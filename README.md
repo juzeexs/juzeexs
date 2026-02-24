@@ -41,17 +41,15 @@ Vamos conversar sobre projetos, oportunidades ou tecnologia?
 Orçamento e colaboração são sempre bem-vindos!
 
 <p align="left">
-  <a href="https://mail.google.com/mail/u/0/#inbox">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  <a href="mailto:painpintojose@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-<p align="left">
-  <a href="https://www.linkedin.com/in/josé-vítor-pinto-325131382">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  <p>
+  <a href="https://www.linkedin.com/in/juzeexs">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4169e1&height=120&section=footer"/>
 </p>
