@@ -37,8 +37,7 @@ Desenvolvedor Front-End apaixonado por criar experiências digitais funcionais e
 
 ## 📊 Estatísticas & Métricas
 
-<div align="center">
-  <!-- Summary cards em tema roxo/amethyst -->
+<div>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juzeexs&theme=dracula"/>
 </div>
 </div>
