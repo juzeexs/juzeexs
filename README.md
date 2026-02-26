@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=juzeexs&label=Visitantes&color=8A2BE2&style=flat-square" alt="contador de visitantes" />
 </p>
 
-## 🙋🏻‍♂️ Sobre Mim
+## 🧠 Sobre Mim
 
 Desenvolvedor Front-End apaixonado por criar experiências digitais funcionais e elegantes. Sou movido pelo desafio de aprender, evoluir e colaborar!
 
