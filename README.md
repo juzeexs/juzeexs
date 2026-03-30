@@ -39,11 +39,8 @@ Desenvolvedor Front-End apaixonado por criar experiências digitais funcionais e
 
 ## 📈 Atividade Recente
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juzeexs&theme=dracula)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juzeexs&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juzeexs&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=juzeexs&theme=dracula&utcOffset=-3)
 
 </div>
 
