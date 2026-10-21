@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Focado+em+experi%C3%AAncias+elegantes;De+olho+no+Back-End+(PHP+%2B+MySQL);Evolu%C3%A7%C3%A3o+constante+sempre!%F0%9F%9A%80" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=juzeexs&label=Visitantes&color=8A2BE2&style=flat-square" alt="contador de visitantes" />
-</p>
-
 ## 🧠 Sobre Mim
 
 Desenvolvedor Front-End apaixonado por criar experiências digitais funcionais e elegantes. Sou movido pelo desafio de aprender, evoluir e colaborar!
